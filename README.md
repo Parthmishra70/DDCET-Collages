@@ -32,14 +32,10 @@
 
 ## 🛠 Tech Stack
 
-| Tech         | Description                   |
-|--------------|-------------------------------|
-| HTML/CSS     | Frontend Structure & Styling  |
-| JavaScript   | App Logic & UI Interaction    |
-| Node.js      | Backend Services              |
-| Express.js   | Server-side Framework         |
-| MongoDB      | Prediction Data Storage       |
-| Vercel/Netlify | Hosting the Web App        |
+| Tech           | Description                            |
+|----------------|----------------------------------------|
+| Machine Learning (AI) | AI model for smart rank prediction |
+| Python (Optional) | Data analysis and model training    |
 
 ---
 
